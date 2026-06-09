@@ -1,4 +1,4 @@
-# 
+# 自动 isolated-margin trading bot 插件 Mac OS版 | 独家 isolated-margin trading bot 插件 PC Windows版。集成 止损单 和 仓位管理，跨平台性能最大化。
 
 
 
